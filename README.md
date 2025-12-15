@@ -9,8 +9,8 @@ Welcome to my GitHub profile!
 - 🎓 I'm a 3rd-year Computer Science student at SUTD
 - 💻 Passionate about software development, problem-solving, and building things that matter
 - 🤝 Always open to collaborating on interesting projects or learning new things
-- 🌱 Currently learning: web dev, databases
-- ⚡ Fun fact(s): loves music, minecraft nerd, dad joke enjoyer 😃
+- 🌱 Currently learning: AI in software, web dev, databases
+- ⚡ Fun fact(s): loves music, and trying new things
 
 ---
 
@@ -39,8 +39,6 @@ Welcome to my GitHub profile!
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadineverelia@gmail.com)
 
 ---
-
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
 
 <!--
